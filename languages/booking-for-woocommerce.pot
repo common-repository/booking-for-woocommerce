@@ -1,0 +1,709 @@
+# Copyright (C) 2022 mvvapps
+# This file is distributed under the same license as the MVV WooCommerce Booking Addon plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: MVV WooCommerce Booking Addon 4.2.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/booking-for-woocommerce-pro-dev\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-04-22T17:33:54+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: booking-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "MVV WooCommerce Booking Addon"
+msgstr ""
+
+#. Description of the plugin
+msgid "Booking and Reservation Addon for WooCommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "mvvapps"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://mvvapps.com"
+msgstr ""
+
+#: include/class-mvvwb-backend.php:165
+msgid "Bookable"
+msgstr ""
+
+#: include/class-mvvwb-backend.php:166
+msgid "Check if this product is Bookable"
+msgstr ""
+
+#: include/class-mvvwb-backend.php:175
+#: include/class-mvvwb-backend.php:227
+#: include/class-mvvwb-payment-gateway.php:29
+msgid "Settings"
+msgstr ""
+
+#: include/class-mvvwb-backend.php:187
+#: include/class-mvvwb-backend.php:188
+msgid "Bookings"
+msgstr ""
+
+#: include/class-mvvwb-backend.php:198
+#: include/class-mvvwb-backend.php:208
+msgid "Services/Items"
+msgstr ""
+
+#: include/class-mvvwb-backend.php:199
+msgid "Manage Items"
+msgstr ""
+
+#: include/class-mvvwb-backend.php:209
+msgid "Resources"
+msgstr ""
+
+#: include/class-mvvwb-backend.php:218
+msgid "WooCommerce Booking Calendar"
+msgstr ""
+
+#: include/class-mvvwb-backend.php:219
+msgid "Calendar"
+msgstr ""
+
+#: include/class-mvvwb-backend.php:226
+msgid "WooCommerce Booking Settings"
+msgstr ""
+
+#: include/class-mvvwb-booking-item.php:678
+#: include/class-mvvwb-booking-item.php:733
+msgid "%1$s (%2$d day)"
+msgid_plural "%1$s (%2$d) days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/class-mvvwb-booking-item.php:680
+#: include/class-mvvwb-booking-item.php:735
+msgid "%1$s - %2$s (%3$d day)"
+msgid_plural "%1$s - %2$s (%3$d days)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/class-mvvwb-booking-item.php:696
+#: include/class-mvvwb-booking-item.php:756
+msgid "%1$s  %2$s - %3$s"
+msgstr ""
+
+#: include/class-mvvwb-booking.php:566
+msgid "Order #%d"
+msgstr ""
+
+#: include/class-mvvwb-booking.php:653
+#: include/functions.php:94
+msgid "Unpaid"
+msgstr ""
+
+#: include/class-mvvwb-booking.php:654
+#: include/functions.php:95
+msgid "Pending Confirmation"
+msgstr ""
+
+#: include/class-mvvwb-booking.php:655
+#: include/functions.php:96
+msgid "Confirmed"
+msgstr ""
+
+#: include/class-mvvwb-booking.php:656
+#: include/functions.php:97
+msgid "Paid"
+msgstr ""
+
+#: include/class-mvvwb-booking.php:657
+#: include/functions.php:98
+msgid "Cancelled"
+msgstr ""
+
+#: include/class-mvvwb-booking.php:658
+#: include/functions.php:99
+msgid "Complete"
+msgstr ""
+
+#: include/class-mvvwb-booking.php:674
+msgid "Booking #%1$d status changed from \"%2$s\" to \"%3$s\""
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:145
+#: include/class-mvvwb-front-end.php:146
+msgid "Booking"
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:149
+msgid "Add New %s"
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:150
+msgid "Edit %s"
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:151
+msgid "New %s"
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:152
+msgid "All Booking"
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:153
+msgid "View %s"
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:154
+msgid "Search %s"
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:155
+msgid "No %s Found"
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:156
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:157
+msgid "Parent %s"
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:226
+msgid "Don't leave product price field blank, Set a value , then only this will show the booking form"
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:340
+msgid "Sorry, You can't have  required confirmation item along with other items. Please remove items from cart ."
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:349
+msgid "Sorry, \"%s\" is not available on date %s. Please edit your cart and try again. We apologize for any inconvenience caused."
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:731
+msgid "Your booking was cancelled."
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:733
+msgid "Your booking can no longer be cancelled. Please contact us if you need assistance."
+msgstr ""
+
+#: include/class-mvvwb-front-end.php:735
+msgid "Invalid booking."
+msgstr ""
+
+#: include/class-mvvwb-payment-gateway.php:17
+msgid "Check booking availability"
+msgstr ""
+
+#: include/class-mvvwb-payment-gateway.php:19
+msgid "Request Confirmation"
+msgstr ""
+
+#: include/class-mvvwb-payment-gateway.php:33
+msgid "This is fictitious payment method used for bookings that requires confirmation."
+msgstr ""
+
+#: include/class-mvvwb-payment-gateway.php:34
+msgid "This gateway requires no configuration."
+msgstr ""
+
+#: include/class-mvvwb-payment-gateway.php:70
+msgid "This order is awaiting confirmation from the shop manager"
+msgstr ""
+
+#: include/class-mvvwb-payment-gateway.php:93
+msgid "Your booking has been confirmed. Thank you."
+msgstr ""
+
+#: include/class-mvvwb-payment-gateway.php:95
+msgid "Your booking is awaiting confirmation. You will be notified by email as soon as we've confirmed availability."
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:18
+msgid "Admin Booking Cancelled"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:19
+#: include/emails/class-mvvwb-email-cancelled.php:19
+msgid "Booking cancelled emails are sent when the status of a booking goes to cancelled."
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:20
+#: include/emails/class-mvvwb-email-cancelled.php:18
+#: include/emails/class-mvvwb-email-cancelled.php:21
+msgid "Booking Cancelled"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:21
+msgid "[{blogname}] A booking of \"{product_title}\" has been cancelled"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:126
+#: include/emails/class-mvvwb-email-booking-reminder.php:117
+#: include/emails/class-mvvwb-email-cancelled.php:122
+#: include/emails/class-mvvwb-email-confirmed.php:118
+#: include/emails/class-mvvwb-email-new-booking.php:173
+#: include/emails/class-mvvwb-email-pending-confirmation.php:125
+msgid "Enable/Disable"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:128
+#: include/emails/class-mvvwb-email-booking-reminder.php:119
+#: include/emails/class-mvvwb-email-cancelled.php:124
+#: include/emails/class-mvvwb-email-confirmed.php:120
+#: include/emails/class-mvvwb-email-new-booking.php:175
+#: include/emails/class-mvvwb-email-pending-confirmation.php:127
+msgid "Enable this email notification"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:132
+#: include/emails/class-mvvwb-email-new-booking.php:179
+msgid "Recipient(s)"
+msgstr ""
+
+#. translators: 1: admin email
+#: include/emails/class-mvvwb-email-admin-cancelled.php:135
+#: include/emails/class-mvvwb-email-new-booking.php:182
+msgid "Enter recipients (comma separated) for this email. Defaults to <code>%s</code>."
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:140
+#: include/emails/class-mvvwb-email-booking-reminder.php:123
+#: include/emails/class-mvvwb-email-cancelled.php:128
+#: include/emails/class-mvvwb-email-confirmed.php:124
+#: include/emails/class-mvvwb-email-new-booking.php:187
+#: include/emails/class-mvvwb-email-pending-confirmation.php:131
+msgid "Subject"
+msgstr ""
+
+#. translators: 1: subject
+#: include/emails/class-mvvwb-email-admin-cancelled.php:143
+#: include/emails/class-mvvwb-email-booking-reminder.php:126
+#: include/emails/class-mvvwb-email-cancelled.php:131
+#: include/emails/class-mvvwb-email-confirmed.php:127
+#: include/emails/class-mvvwb-email-new-booking.php:190
+#: include/emails/class-mvvwb-email-pending-confirmation.php:134
+msgid "This controls the email subject line. Leave blank to use the default subject: <code>%s</code>."
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:148
+#: include/emails/class-mvvwb-email-booking-reminder.php:131
+#: include/emails/class-mvvwb-email-cancelled.php:136
+#: include/emails/class-mvvwb-email-confirmed.php:132
+#: include/emails/class-mvvwb-email-new-booking.php:203
+#: include/emails/class-mvvwb-email-pending-confirmation.php:139
+msgid "Email Heading"
+msgstr ""
+
+#. translators: 1: heading
+#. translators: 1: heading confirmation
+#: include/emails/class-mvvwb-email-admin-cancelled.php:151
+#: include/emails/class-mvvwb-email-booking-reminder.php:134
+#: include/emails/class-mvvwb-email-cancelled.php:139
+#: include/emails/class-mvvwb-email-confirmed.php:135
+#: include/emails/class-mvvwb-email-new-booking.php:206
+#: include/emails/class-mvvwb-email-pending-confirmation.php:142
+msgid "This controls the main heading contained within the email notification. Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:156
+#: include/emails/class-mvvwb-email-booking-reminder.php:139
+#: include/emails/class-mvvwb-email-cancelled.php:144
+#: include/emails/class-mvvwb-email-confirmed.php:140
+#: include/emails/class-mvvwb-email-new-booking.php:219
+#: include/emails/class-mvvwb-email-pending-confirmation.php:147
+msgid "Email type"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:158
+#: include/emails/class-mvvwb-email-booking-reminder.php:141
+#: include/emails/class-mvvwb-email-cancelled.php:146
+#: include/emails/class-mvvwb-email-confirmed.php:142
+#: include/emails/class-mvvwb-email-new-booking.php:221
+#: include/emails/class-mvvwb-email-pending-confirmation.php:149
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:162
+#: include/emails/class-mvvwb-email-booking-reminder.php:145
+#: include/emails/class-mvvwb-email-cancelled.php:150
+#: include/emails/class-mvvwb-email-confirmed.php:146
+#: include/emails/class-mvvwb-email-new-booking.php:225
+#: include/emails/class-mvvwb-email-pending-confirmation.php:153
+msgid "Plain text"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:163
+#: include/emails/class-mvvwb-email-booking-reminder.php:146
+#: include/emails/class-mvvwb-email-cancelled.php:151
+#: include/emails/class-mvvwb-email-confirmed.php:147
+#: include/emails/class-mvvwb-email-new-booking.php:226
+#: include/emails/class-mvvwb-email-pending-confirmation.php:154
+msgid "HTML"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-admin-cancelled.php:164
+#: include/emails/class-mvvwb-email-booking-reminder.php:147
+#: include/emails/class-mvvwb-email-cancelled.php:152
+#: include/emails/class-mvvwb-email-confirmed.php:148
+#: include/emails/class-mvvwb-email-new-booking.php:227
+#: include/emails/class-mvvwb-email-pending-confirmation.php:155
+msgid "Multipart"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-booking-reminder.php:20
+#: include/emails/class-mvvwb-email-booking-reminder.php:23
+msgid "Booking Reminder"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-booking-reminder.php:21
+msgid "Booking reminders are sent to the customer to remind them of an upcoming booking."
+msgstr ""
+
+#: include/emails/class-mvvwb-email-booking-reminder.php:24
+msgid "[{blogname}] A reminder about your booking of \"{product_title}\""
+msgstr ""
+
+#: include/emails/class-mvvwb-email-cancelled.php:22
+msgid "[{blogname}] Your booking of \"{product_title}\" has been cancelled"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-confirmed.php:19
+#: include/emails/class-mvvwb-email-confirmed.php:21
+msgid "Booking Confirmed"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-confirmed.php:20
+msgid "Booking confirmed emails are sent when the status of a booking goes to confirmed."
+msgstr ""
+
+#: include/emails/class-mvvwb-email-confirmed.php:22
+msgid "[{blogname}] Your booking of \"{product_title}\" has been confirmed (Order {order_number}) - {order_date}"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-new-booking.php:27
+msgid "New Booking"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-new-booking.php:28
+msgid "New booking emails are sent to the admin when a new booking is created and paid. This email is also received when a Pending confirmation booking is created."
+msgstr ""
+
+#: include/emails/class-mvvwb-email-new-booking.php:30
+msgid "New booking"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-new-booking.php:31
+msgid "Confirm booking"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-new-booking.php:32
+msgid "[{blogname}] New booking for {product_title} (Order {order_number}) - {order_date}"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-new-booking.php:33
+msgid "[{blogname}] A new booking for {product_title} (Order {order_number}) is awaiting your approval - {order_date}"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-new-booking.php:195
+msgid "Subject (Pending confirmation)"
+msgstr ""
+
+#. translators: 1: subject confirmation
+#: include/emails/class-mvvwb-email-new-booking.php:198
+msgid "This controls the email subject line for Pending confirmation bookings. Leave blank to use the default subject: <code>%s</code>."
+msgstr ""
+
+#: include/emails/class-mvvwb-email-new-booking.php:211
+msgid "Email Heading (Pending confirmation)"
+msgstr ""
+
+#. translators: 1: heading confirmation
+#: include/emails/class-mvvwb-email-new-booking.php:214
+msgid "This controls the main heading contained within the email notification for Pending confirmation bookings. Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+
+#: include/emails/class-mvvwb-email-pending-confirmation.php:19
+#: include/emails/class-mvvwb-email-pending-confirmation.php:21
+msgid "Booking Pending Confirmation"
+msgstr ""
+
+#: include/emails/class-mvvwb-email-pending-confirmation.php:20
+msgid "Booking pending confirmation emails are sent when the status of a booking goes to pending confirmation."
+msgstr ""
+
+#: include/emails/class-mvvwb-email-pending-confirmation.php:22
+msgid "[{blogname}] Your booking of \"{product_title}\" has been received, and it's pending confirmation (Order {order_number}) - {order_date}"
+msgstr ""
+
+#: include/views/booking-display-backend.php:25
+#: include/views/booking-display.php:27
+msgid "Booking #%s"
+msgstr ""
+
+#: include/views/booking-display-backend.php:69
+msgid "Booking # %d"
+msgstr ""
+
+#: include/views/booking-display.php:71
+msgid "View my bookings &rarr;"
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:20
+msgid "The following booking has been cancelled. The details of the cancelled booking can be found below."
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:26
+#: templates/emails/admin-new-booking.php:41
+#: templates/emails/customer-booking-cancelled.php:35
+#: templates/emails/customer-booking-confirmed.php:37
+#: templates/emails/customer-booking-pending-confirmation.php:37
+#: templates/emails/customer-booking-reminder.php:42
+msgid "Booked Product"
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:31
+#: templates/emails/admin-new-booking.php:46
+#: templates/emails/customer-booking-cancelled.php:40
+#: templates/emails/customer-booking-confirmed.php:42
+#: templates/emails/customer-booking-pending-confirmation.php:42
+#: templates/emails/customer-booking-reminder.php:47
+msgid "Booking ID"
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:40
+#: templates/emails/admin-booking-cancelled.php:48
+#: templates/emails/admin-new-booking.php:55
+#: templates/emails/admin-new-booking.php:63
+#: templates/emails/customer-booking-cancelled.php:49
+#: templates/emails/customer-booking-cancelled.php:57
+#: templates/emails/customer-booking-confirmed.php:51
+#: templates/emails/customer-booking-confirmed.php:59
+#: templates/emails/customer-booking-pending-confirmation.php:51
+#: templates/emails/customer-booking-pending-confirmation.php:59
+#: templates/emails/customer-booking-reminder.php:56
+#: templates/emails/customer-booking-reminder.php:64
+msgid "Booking Start Date"
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:53
+#: templates/emails/admin-new-booking.php:68
+#: templates/emails/customer-booking-cancelled.php:62
+#: templates/emails/customer-booking-confirmed.php:64
+#: templates/emails/customer-booking-pending-confirmation.php:64
+#: templates/emails/customer-booking-reminder.php:69
+msgid "Booking End Date"
+msgstr ""
+
+#: templates/emails/admin-booking-cancelled.php:62
+#: templates/emails/admin-new-booking.php:77
+#: templates/emails/customer-booking-cancelled.php:71
+#: templates/emails/customer-booking-confirmed.php:73
+#: templates/emails/customer-booking-pending-confirmation.php:73
+#: templates/emails/customer-booking-reminder.php:78
+msgid "Booking Time: "
+msgstr ""
+
+#. translators: 1: a href to booking
+#: templates/emails/admin-booking-cancelled.php:126
+#: templates/emails/admin-new-booking.php:144
+#: templates/emails/plain/admin-booking-cancelled.php:62
+msgid "You can view and edit this booking in the dashboard here: %s"
+msgstr ""
+
+#. translators: 1: billing first and last name
+#: templates/emails/admin-new-booking.php:10
+#: templates/emails/plain/admin-new-booking.php:27
+msgid "A booking has been made by %s and is awaiting your approval. The details of this booking are as follows:"
+msgstr ""
+
+#. translators: 1: billing first and last name
+#: templates/emails/admin-new-booking.php:13
+#: templates/emails/plain/admin-new-booking.php:30
+msgid "A new booking has been made by %s. The details of this booking are as follows:"
+msgstr ""
+
+#: templates/emails/admin-new-booking.php:138
+#: templates/emails/plain/admin-new-booking.php:92
+msgid "This booking is awaiting your approval. Please check it and inform the customer if the date is available or not."
+msgstr ""
+
+#. translators: 1: billing first name
+#: templates/emails/customer-booking-cancelled.php:24
+#: templates/emails/customer-booking-confirmed.php:25
+#: templates/emails/customer-booking-pending-confirmation.php:25
+#: templates/emails/customer-booking-reminder.php:26
+#: templates/emails/plain/customer-booking-cancelled.php:20
+#: templates/emails/plain/customer-booking-confirmed.php:36
+#: templates/emails/plain/customer-booking-pending-confirmation.php:20
+#: templates/emails/plain/customer-booking-reminder.php:37
+msgid "Hello %s"
+msgstr ""
+
+#: templates/emails/customer-booking-cancelled.php:29
+#: templates/emails/plain/customer-booking-cancelled.php:23
+msgid "We are sorry to say that your booking could not be confirmed and has been cancelled. The details of the cancelled booking can be found below."
+msgstr ""
+
+#: templates/emails/customer-booking-cancelled.php:131
+#: templates/emails/plain/customer-booking-cancelled.php:71
+msgid "Please contact us if you have any questions or concerns."
+msgstr ""
+
+#: templates/emails/customer-booking-confirmed.php:31
+#: templates/emails/plain/customer-booking-confirmed.php:38
+msgid "Your booking has been confirmed. The details of your booking are shown below."
+msgstr ""
+
+#. translators: 1: checkout payment url
+#: templates/emails/customer-booking-confirmed.php:141
+msgid "To pay for this booking please use the following link: %s"
+msgstr ""
+
+#. translators: 1: checkout payment url
+#: templates/emails/customer-booking-confirmed.php:141
+msgid "Pay for booking"
+msgstr ""
+
+#: templates/emails/customer-booking-confirmed.php:158
+#: templates/myaccount/bookings.php:27
+msgid "Order"
+msgstr ""
+
+#: templates/emails/customer-booking-confirmed.php:170
+msgid "Product"
+msgstr ""
+
+#: templates/emails/customer-booking-confirmed.php:172
+msgid "Quantity"
+msgstr ""
+
+#: templates/emails/customer-booking-confirmed.php:174
+msgid "Price"
+msgstr ""
+
+#: templates/emails/customer-booking-pending-confirmation.php:31
+#: templates/emails/plain/customer-booking-pending-confirmation.php:23
+msgid "Your booking has been received and it's pending confirmation. The details of your booking are shown below."
+msgstr ""
+
+#. translators: 1: booking start date
+#: templates/emails/customer-booking-reminder.php:34
+#: templates/emails/plain/customer-booking-reminder.php:41
+msgid "This is a reminder that your booking will take place on %1$s."
+msgstr ""
+
+#: templates/emails/plain/admin-booking-cancelled.php:13
+msgid "The following booking has been cancelled by the customer. The details of the cancelled booking can be found below."
+msgstr ""
+
+#. translators: 1: booking product title
+#: templates/emails/plain/admin-booking-cancelled.php:18
+#: templates/emails/plain/admin-new-booking.php:49
+#: templates/emails/plain/customer-booking-cancelled.php:28
+#: templates/emails/plain/customer-booking-confirmed.php:43
+#: templates/emails/plain/customer-booking-pending-confirmation.php:28
+#: templates/emails/plain/customer-booking-reminder.php:47
+msgid "Booked: %s"
+msgstr ""
+
+#. translators: 1: booking id
+#: templates/emails/plain/admin-booking-cancelled.php:20
+#: templates/emails/plain/admin-new-booking.php:51
+#: templates/emails/plain/customer-booking-cancelled.php:30
+#: templates/emails/plain/customer-booking-confirmed.php:45
+#: templates/emails/plain/customer-booking-pending-confirmation.php:30
+#: templates/emails/plain/customer-booking-reminder.php:49
+msgid "Booking ID: %s"
+msgstr ""
+
+#: templates/emails/plain/admin-booking-cancelled.php:24
+#: templates/emails/plain/admin-new-booking.php:55
+#: templates/emails/plain/customer-booking-cancelled.php:34
+#: templates/emails/plain/customer-booking-confirmed.php:49
+#: templates/emails/plain/customer-booking-pending-confirmation.php:34
+#: templates/emails/plain/customer-booking-reminder.php:53
+msgid "Booking Date: %s"
+msgstr ""
+
+#. translators: 1: booking start date
+#: templates/emails/plain/admin-booking-cancelled.php:29
+#: templates/emails/plain/admin-new-booking.php:60
+#: templates/emails/plain/customer-booking-cancelled.php:39
+#: templates/emails/plain/customer-booking-confirmed.php:54
+#: templates/emails/plain/customer-booking-pending-confirmation.php:39
+#: templates/emails/plain/customer-booking-reminder.php:58
+msgid "Booking Start Date: %s"
+msgstr ""
+
+#. translators: 1: booking end date
+#: templates/emails/plain/admin-booking-cancelled.php:31
+#: templates/emails/plain/admin-new-booking.php:62
+#: templates/emails/plain/customer-booking-cancelled.php:41
+#: templates/emails/plain/customer-booking-confirmed.php:56
+#: templates/emails/plain/customer-booking-pending-confirmation.php:41
+#: templates/emails/plain/customer-booking-reminder.php:60
+msgid "Booking End Date: %s"
+msgstr ""
+
+#: templates/emails/plain/admin-booking-cancelled.php:36
+#: templates/emails/plain/admin-new-booking.php:67
+#: templates/emails/plain/customer-booking-cancelled.php:46
+#: templates/emails/plain/customer-booking-confirmed.php:61
+#: templates/emails/plain/customer-booking-pending-confirmation.php:46
+#: templates/emails/plain/customer-booking-reminder.php:65
+msgid "Booking Time: %s"
+msgstr ""
+
+#: templates/myaccount/bookings.php:11
+msgid "Upcoming Bookings"
+msgstr ""
+
+#: templates/myaccount/bookings.php:12
+msgid "Past Bookings"
+msgstr ""
+
+#: templates/myaccount/bookings.php:25
+msgid "ID"
+msgstr ""
+
+#: templates/myaccount/bookings.php:26
+msgid "Booked"
+msgstr ""
+
+#: templates/myaccount/bookings.php:28
+msgid "Start Date"
+msgstr ""
+
+#: templates/myaccount/bookings.php:29
+msgid "End Date"
+msgstr ""
+
+#: templates/myaccount/bookings.php:30
+msgid "Status"
+msgstr ""
+
+#: templates/myaccount/bookings.php:69
+msgid "Cancel"
+msgstr ""
+
+#: templates/myaccount/bookings.php:81
+msgid "Previous"
+msgstr ""
+
+#: templates/myaccount/bookings.php:86
+msgid "Next"
+msgstr ""
+
+#: templates/myaccount/bookings.php:99
+msgid "Go Shop"
+msgstr ""
+
+#: templates/myaccount/bookings.php:101
+msgid "No bookings available yet."
+msgstr ""

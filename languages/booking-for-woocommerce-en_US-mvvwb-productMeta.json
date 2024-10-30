@@ -1,0 +1,39 @@
+{
+    "translation-revision-date": "2022-04-22T17:37:48+02:00",
+    "generator": "WP-CLI\/2.6.0",
+    "source": "productMeta.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Manage Cost": [
+                ""
+            ],
+            "Price Per Unit": [
+                ""
+            ],
+            "Fixed Extra Cost": [
+                ""
+            ],
+            "Fixed Extra Cost Cost Per Person": [
+                ""
+            ],
+            "Extra Cost Per %s": [
+                ""
+            ],
+            "Select an Item": [
+                ""
+            ],
+            "Set custom price for this item": [
+                ""
+            ],
+            "By default it will be using the price set for the item in item editor": [
+                ""
+            ]
+        }
+    }
+}

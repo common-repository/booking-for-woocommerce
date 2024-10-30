@@ -1,0 +1,684 @@
+{
+    "translation-revision-date": "2022-04-22T17:37:48+02:00",
+    "generator": "WP-CLI\/2.6.0",
+    "source": "admin.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "en",
+                "plural-forms": "nplurals=2; plural=(n != 1);"
+            },
+            "Date Range": [
+                ""
+            ],
+            "Time Start": [
+                ""
+            ],
+            "Time End": [
+                ""
+            ],
+            "Sunday": [
+                ""
+            ],
+            "Monday": [
+                ""
+            ],
+            "Tuesday": [
+                ""
+            ],
+            "Wednesday": [
+                ""
+            ],
+            "Thursday": [
+                ""
+            ],
+            "Friday": [
+                ""
+            ],
+            "Saturday": [
+                ""
+            ],
+            "Week Days": [
+                ""
+            ],
+            "From": [
+                ""
+            ],
+            "To ": [
+                ""
+            ],
+            "UnPaid": [
+                ""
+            ],
+            "Pending Confirmation": [
+                ""
+            ],
+            "Confirmed": [
+                ""
+            ],
+            "Paid": [
+                ""
+            ],
+            "Complete": [
+                ""
+            ],
+            "Cancelled": [
+                ""
+            ],
+            "Persons": [
+                ""
+            ],
+            "Adults": [
+                ""
+            ],
+            "Children": [
+                ""
+            ],
+            "Order": [
+                ""
+            ],
+            "Status": [
+                ""
+            ],
+            "Bookings List": [
+                ""
+            ],
+            "Item": [
+                ""
+            ],
+            "Product": [
+                ""
+            ],
+            "Customer": [
+                ""
+            ],
+            "Booked On": [
+                ""
+            ],
+            "# Of Persons": [
+                ""
+            ],
+            "Start\/End Date": [
+                ""
+            ],
+            "Start Time": [
+                ""
+            ],
+            "Duration": [
+                ""
+            ],
+            "Showing #%d": [
+                ""
+            ],
+            "Bookings": [
+                ""
+            ],
+            "General Details": [
+                ""
+            ],
+            "Edit": [
+                ""
+            ],
+            "Booking": [
+                ""
+            ],
+            "Start Date:": [
+                ""
+            ],
+            "End Date:": [
+                ""
+            ],
+            "Duration:": [
+                ""
+            ],
+            "Persons: ": [
+                ""
+            ],
+            "Adult:": [
+                ""
+            ],
+            "Quantity:": [
+                ""
+            ],
+            "Guest": [
+                ""
+            ],
+            "Resources": [
+                ""
+            ],
+            "Price Details": [
+                ""
+            ],
+            "Update Status": [
+                ""
+            ],
+            "Booking Status": [
+                ""
+            ],
+            "Delete Item": [
+                ""
+            ],
+            "Are you sure to delete this Item?": [
+                ""
+            ],
+            "Deleting...": [
+                ""
+            ],
+            "Some thing went wrong, May be the product  wont be existing!": [
+                ""
+            ],
+            "Edit Bookings": [
+                ""
+            ],
+            "Unpaid": [
+                ""
+            ],
+            "Today": [
+                ""
+            ],
+            "Month": [
+                ""
+            ],
+            "Week": [
+                ""
+            ],
+            "Day": [
+                ""
+            ],
+            "List": [
+                ""
+            ],
+            "View": [
+                ""
+            ],
+            "Persons:": [
+                ""
+            ],
+            "Manage Cost": [
+                ""
+            ],
+            "Booking Item": [
+                ""
+            ],
+            "Items": [
+                ""
+            ],
+            "Save": [
+                ""
+            ],
+            "Title": [
+                ""
+            ],
+            "Provide a tile": [
+                ""
+            ],
+            "Block Duration ": [
+                ""
+            ],
+            "Days": [
+                ""
+            ],
+            "Hours": [
+                ""
+            ],
+            "Minutes": [
+                ""
+            ],
+            "Enable Multiple selection": [
+                ""
+            ],
+            "Customers will be able to select multiple blocks\/slots": [
+                ""
+            ],
+            "Check if this need to enable multi selection": [
+                ""
+            ],
+            "Max Booking Per Slot": [
+                ""
+            ],
+            "How many booking can have per slot": [
+                ""
+            ],
+            "Min Bookable duration": [
+                ""
+            ],
+            "Minimum required booking duration": [
+                ""
+            ],
+            "Max Bookable": [
+                ""
+            ],
+            "Maximum allowed selection ": [
+                ""
+            ],
+            "All Day Booking?": [
+                ""
+            ],
+            "If the check in date is today and check out is tomorrow, it will be counted as  1 day.If you want to consider checking and leaving date as same day, please check this all day booking option": [
+                ""
+            ],
+            "Check this to enable All Day Booking": [
+                ""
+            ],
+            "Required Confirmation?": [
+                ""
+            ],
+            "Check this if it need admin approval": [
+                ""
+            ],
+            "Can be cancelled?": [
+                ""
+            ],
+            "Booking can be cancelled until": [
+                ""
+            ],
+            "Buffer period between two bookings, ": [
+                ""
+            ],
+            "Configurations": [
+                ""
+            ],
+            "Enable Persons Option": [
+                ""
+            ],
+            "Check for Enabling Persons Option": [
+                ""
+            ],
+            "Enable Persons Type": [
+                ""
+            ],
+            "Check for Enabling Adult and Children Option": [
+                ""
+            ],
+            "Each Person as Different Booking": [
+                ""
+            ],
+            "Consider each persons as separate Booking,Persons count will count towards total booking per slot and also price will be calculating accordingly ": [
+                ""
+            ],
+            "Consider Persons Count as Separate Booking": [
+                ""
+            ],
+            "Show Date Range Picker": [
+                ""
+            ],
+            "Check for Enabling Date Range Picker": [
+                ""
+            ],
+            "Show calendar instead of datepicker.": [
+                ""
+            ],
+            "Show Inline Calendar": [
+                ""
+            ],
+            "Enable Quantity Field": [
+                ""
+            ],
+            "Check for Enabling Quantity Field": [
+                ""
+            ],
+            "Base Price For %s": [
+                ""
+            ],
+            "Multiply by Persons Count": [
+                ""
+            ],
+            "Free persons Count": [
+                ""
+            ],
+            "Default included persons count": [
+                ""
+            ],
+            "Extra Cost Per Person": [
+                ""
+            ],
+            "Extra Cost Per Adult": [
+                ""
+            ],
+            "Extra Cost Per Child": [
+                ""
+            ],
+            "Extra Costs": [
+                ""
+            ],
+            "Fixed Base Price": [
+                ""
+            ],
+            "Leave Blank if not using": [
+                ""
+            ],
+            "Availability Rules": [
+                ""
+            ],
+            "Add New Rule": [
+                ""
+            ],
+            "Minimum Advance Booking": [
+                ""
+            ],
+            "Maximum Advance Booking": [
+                ""
+            ],
+            "Booking Start Time": [
+                ""
+            ],
+            "Booking End Time": [
+                ""
+            ],
+            "Slot Increment for time selector dropdown": [
+                ""
+            ],
+            "Set time required between selection": [
+                ""
+            ],
+            "Buffer Period": [
+                ""
+            ],
+            "Time increment including buffer": [
+                ""
+            ],
+            "If you want to add buffer duration between each slots in time selector By default buffer duration will be calculated only when you have booking for slots.": [
+                ""
+            ],
+            "Delete": [
+                ""
+            ],
+            "Range Type": [
+                ""
+            ],
+            "Date range": [
+                ""
+            ],
+            "Time Range": [
+                ""
+            ],
+            "Date Time Range": [
+                ""
+            ],
+            "WeekDays & Time Range": [
+                ""
+            ],
+            "Bookable": [
+                ""
+            ],
+            "Not Bookable": [
+                ""
+            ],
+            "Holiday (Bookable)": [
+                ""
+            ],
+            "Priority": [
+                ""
+            ],
+            "Booking window preview": [
+                ""
+            ],
+            "Are you sure to delete this Item - %s": [
+                ""
+            ],
+            "Select Additional Resources": [
+                ""
+            ],
+            "Items List": [
+                ""
+            ],
+            "Add New Item": [
+                ""
+            ],
+            "Item Title": [
+                ""
+            ],
+            "Block Duration": [
+                ""
+            ],
+            "Type": [
+                ""
+            ],
+            "Unit Price": [
+                ""
+            ],
+            "Fixed Charge": [
+                ""
+            ],
+            "Products Assigned": [
+                ""
+            ],
+            "No Products Assigned": [
+                ""
+            ],
+            "Description": [
+                ""
+            ],
+            "Price": [
+                ""
+            ],
+            "Leave Blank or Zero for Free": [
+                ""
+            ],
+            "Is Optional?": [
+                ""
+            ],
+            "let customers choose to add it or not": [
+                ""
+            ],
+            "Select if this service is optional ": [
+                ""
+            ],
+            "Hide from Customer": [
+                ""
+            ],
+            "It will be hidden from resource list in frontend, The cost will be show in summary": [
+                ""
+            ],
+            "Select if this service is hidden ": [
+                ""
+            ],
+            "Multiply cost by units selected": [
+                ""
+            ],
+            "Select if you want to multiply the cost of this service by the number of units selected. ": [
+                ""
+            ],
+            "Multiply cost by people": [
+                ""
+            ],
+            "cost of this service by the number": [
+                ""
+            ],
+            "Price For Adult": [
+                ""
+            ],
+            " Select this resource price for Adult. Leave empty to use default price": [
+                ""
+            ],
+            "Price For Child": [
+                ""
+            ],
+            "Select this resource price for Adult. Leave empty to": [
+                ""
+            ],
+            "Has Quantity?": [
+                ""
+            ],
+            "Select if you want to allow a quantity selection for this service.": [
+                ""
+            ],
+            "Min Quantity": [
+                ""
+            ],
+            "Max Quantity": [
+                ""
+            ],
+            "Choose the maximum quantity for this service. Leave empty for unlimited": [
+                ""
+            ],
+            "Resource Availability ": [
+                ""
+            ],
+            "Is it Limited Resource ": [
+                ""
+            ],
+            "Select if this resource is limited in numbers ": [
+                ""
+            ],
+            "Available Quantity": [
+                ""
+            ],
+            "Maximum Capacity": [
+                ""
+            ],
+            "How many booking allowed per resouce": [
+                ""
+            ],
+            "Sharable Across Diffrent Items?": [
+                ""
+            ],
+            "By default if a resouces is reserved for an item, it will not allow to book for other items at the same time. But can book for the same item till the max capacity reaches. Basically it prevents using person from diffrent item\/product the same resouces at same time ": [
+                ""
+            ],
+            "Select if this resouces is sharable ": [
+                ""
+            ],
+            "Booking slots will show un-available if this item is not available": [
+                ""
+            ],
+            "Yes": [
+                ""
+            ],
+            "No": [
+                ""
+            ],
+            "Yes (%d)": [
+                ""
+            ],
+            "Resource Title": [
+                ""
+            ],
+            "Is Limited?": [
+                ""
+            ],
+            "Hidden": [
+                ""
+            ],
+            "Quantity?": [
+                ""
+            ],
+            "Start Date": [
+                ""
+            ],
+            "End Date": [
+                ""
+            ],
+            "Quantity": [
+                ""
+            ],
+            "Total": [
+                ""
+            ],
+            "Selected Date": [
+                ""
+            ],
+            "Booking Price": [
+                ""
+            ],
+            "Booking Price Persons": [
+                ""
+            ],
+            "Booking Price Adult": [
+                ""
+            ],
+            "Booking Price Children": [
+                ""
+            ],
+            "Selected date range is not available": [
+                ""
+            ],
+            "Invalid Selection": [
+                ""
+            ],
+            "Book Now": [
+                ""
+            ],
+            "Check Availability": [
+                ""
+            ],
+            "Confirmation Required": [
+                ""
+            ],
+            "Resources Title": [
+                ""
+            ],
+            "Per Unit": [
+                ""
+            ],
+            "Per Person": [
+                ""
+            ],
+            "Per unit Per Person": [
+                ""
+            ],
+            "One Time": [
+                ""
+            ],
+            "Only %d quantity is available (Singular)": [
+                ""
+            ],
+            "Only %d Quantities are available (Plural)": [
+                ""
+            ],
+            "Resource %s Not Available": [
+                ""
+            ],
+            "Settings": [
+                ""
+            ],
+            "Update Plugin Configurations": [
+                ""
+            ],
+            "Time Picker ": [
+                ""
+            ],
+            "Time Picker Time Format ": [
+                ""
+            ],
+            "12 Hrs": [
+                ""
+            ],
+            "24 Hrs": [
+                ""
+            ],
+            "Update Booking Form Labels": [
+                ""
+            ],
+            "Various Strings and Labels": [
+                ""
+            ],
+            "Booking Button Texts": [
+                ""
+            ],
+            "Form Labels": [
+                ""
+            ],
+            "Price Summary": [
+                ""
+            ],
+            "Resources Labels": [
+                ""
+            ],
+            "Messages and Warnings": [
+                ""
+            ],
+            "%d Day": [
+                ""
+            ],
+            "%d Hour": [
+                ""
+            ],
+            "%d Minute": [
+                ""
+            ]
+        }
+    }
+}

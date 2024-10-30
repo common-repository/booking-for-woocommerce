@@ -1,0 +1,347 @@
+.mvvwb_wrap label {
+    display: block;
+}
+
+.mvvwb_booking_panel {
+    clear: both;
+}
+
+.mvvwb_booking_panel:empty {
+    width: 5px;
+    height: 5px;
+    border: 1.1em solid rgb(205 190 190 / 88%);
+    border-left: 1.1em solid #707b79;
+    border-radius: 50%;
+    animation: mvvwb_load8 1.1s infinite linear;
+    margin: 0 auto;
+}
+
+@keyframes mvvwb_load8 {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.mvvwb_duration {
+    margin: 0 0 1em 0;
+}
+
+.mvvwb_date_row, .mvvwb_persons_row {
+    margin: 0 0 1em 0;
+}
+
+.mvvwb_persons, .mvvwb_time_start, .mvvwb_quantity {
+    margin: 0 0 1em 0;
+
+}
+
+form.cart .mvvwb_wrap .mvvwb_persons .mvvwb_input,
+form.cart .mvvwb_wrap .mvvwb_persons_row .mvvwb_input,
+form.cart .mvvwb_wrap .mvvwb_date_row .mvvwb_input,
+form.cart .mvvwb_wrap .mvvwb_quantity .mvvwb_input {
+    width: 100%;
+    line-height: 30px;
+    padding: 5px 0px 5px 15px;
+    border: 1px solid #dbdbdb;
+    background: #fff;
+    box-shadow: none;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.mvvwb_showInline .mvvwb_input, .mvvwb_showInline .mvvwb_date_end {
+    display: none;
+}
+
+.mvvwb_showInline .flatpickr-calendar {
+    box-shadow: none;
+    margin: 0 auto;
+}
+
+.mvvwb_sel_wrap {
+    position: relative;
+}
+
+.mvvwb_sel_wrap select {
+    display: inline-block;
+    width: 100%;
+    cursor: pointer;
+    line-height: 30px;
+    padding: 5px 15px;
+    outline: 0;
+    border-radius: 0;
+    border: 1px solid #dbdbdb;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background: #fff;
+}
+
+.mvvwb_sel_arrow {
+    content: '';
+    display: block;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    width: 0;
+    height: 0;
+    pointer-events: none;
+    border-style: solid;
+    border-width: 8px 5px 0 5px;
+    border-color: #aaa transparent transparent transparent;
+}
+
+.mvvwb_date_row.mvvwb_date_range {
+    display: flex;
+    flex-direction: row;
+}
+
+.mvvwb_date_row.mvvwb_date_range.mvvwb_showInline {
+    display: block;
+}
+
+.mvvwb_persons_row {
+    display: flex;
+    flex-direction: row;
+}
+
+.mvvwb_date_start {
+    position: relative;
+}
+
+.mvvwb_date_range .mvvwb_date_start, .mvvwb_persons_row .mvvwb_persons_adult {
+    margin-right: 10px;
+    flex-grow: 1;
+}
+
+[dir="rtl"] .mvvwb_date_range .mvvwb_date_start,
+[dir="rtl"] .mvvwb_persons_row .mvvwb_persons_adult {
+    margin-right: auto;
+    margin-left: 10px;
+}
+
+.mvvwb_date_end, .mvvwb_persons_children {
+    flex-grow: 1;
+}
+
+.mvvwb_summary {
+    margin: 15px 0;
+    position: relative;
+}
+
+.mvvwb_summary .mvvwb_booking_date {
+    color: #4984de;
+    margin-bottom: 5px;
+}
+
+.mvvwb_summary .mvvwb_price_item {
+    display: flex;
+    border-bottom: 1px solid #dbdbdb;
+    padding: 5px 0;
+}
+
+.mvvwb_price_price {
+    margin-left: auto;
+}
+
+[dir="rtl"] .mvvwb_price_price {
+    margin-left: initial;
+    margin-right: auto;
+}
+
+.mvvwb_summary .mvvwb_price_total {
+    display: flex;
+    padding: 5px 0;
+}
+
+.mvvwb_price_total .mvvwb_price_label {
+    font-weight: bold;
+}
+
+/* SVG spinner icon animation */
+.mvvwb_wrap .mvvwb_spinner {
+    -webkit-animation: rotate 2s linear infinite;
+    animation: rotate 2s linear infinite;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 15px;
+    display: block;
+    left: 50%;
+    margin-left: -15px;
+}
+
+.mvvwb_spinner .mvvwb_path {
+    stroke: #cccccc;
+    stroke-linecap: round;
+    -webkit-animation: dash 1.5s ease-in-out infinite;
+    animation: dash 1.5s ease-in-out infinite;
+}
+
+@-webkit-keyframes rotate {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes rotate {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes dash {
+    0% {
+        stroke-dasharray: 1, 150;
+        stroke-dashoffset: 0;
+    }
+    50% {
+        stroke-dasharray: 90, 150;
+        stroke-dashoffset: -35;
+    }
+    100% {
+        stroke-dasharray: 90, 150;
+        stroke-dashoffset: -124;
+    }
+}
+
+@keyframes dash {
+    0% {
+        stroke-dasharray: 1, 150;
+        stroke-dashoffset: 0;
+    }
+    50% {
+        stroke-dasharray: 90, 150;
+        stroke-dashoffset: -35;
+    }
+    100% {
+        stroke-dasharray: 90, 150;
+        stroke-dashoffset: -124;
+    }
+}
+
+.mvvwb_confirmation_tag {
+    font-size: 12px;
+    background: #17a2b8;
+    display: inline-block;
+    padding: 0 4px;
+    margin: 0 5px;
+    color: #fff;
+}
+
+.mvvwb_resources h4 {
+    padding-top: 0;
+    font-weight: 400;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.mvvwb_resources .mvvwb_resource {
+    display: flex;
+    flex-direction: row;
+}
+
+.mvvwb_resources .mvvwb_resource {
+
+}
+
+.mvvwb_resources .mvvwb_checkbox {
+    display: block;
+    position: relative;
+    padding-left: 22px;
+
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.mvvwb_resources .mvvwb_checkbox input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+
+}
+
+/* Create a custom checkbox */
+.mvvwb_resources .mvvwb_checkbox span {
+    position: absolute;
+    left: 0;
+    height: 18px;
+    width: 18px;
+    background-color: #fff;
+    border: 1px solid #dbdbdb;
+    border-radius: 2px;
+    top: 3px;
+}
+
+/* On mouse-over, add a grey background color */
+.mvvwb_resources .mvvwb_checkbox:hover input ~ span {
+    background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.mvvwb_resources .mvvwb_checkbox input:checked ~ span {
+    background-color: #5cb85c;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.mvvwb_resources .mvvwb_checkbox span:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the checkmark when checked */
+.mvvwb_resources .mvvwb_checkbox input:checked ~ span:after {
+    display: block;
+}
+
+/* Style the checkmark/indicator */
+.mvvwb_resources .mvvwb_checkbox span:after {
+    left: 6px;
+    top: 2px;
+    width: 3px;
+    height: 7px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+    box-sizing: content-box;
+}
+
+.mvvwb_resources .mvvwb_price_text {
+    font-size: 12px;
+}
+
+.mvvwb_resources .mvvwb_res_quantity {
+
+    border: 1px solid #dbdbdb;
+    background: #fff;
+    box-shadow: none;
+    outline: 0;
+    box-sizing: border-box;
+    padding: 0px 0 0px 5px;
+    margin: 0 5px;
+    width: 45px;
+    max-height: 40px;
+}
+
+.mvvwb_resources .mvvwb_pull_right {
+    margin-left: auto;
+    margin-bottom: 10px;
+}
+
+@media (min-width: 768px) {
+    table.my_account_bookings {
+        font-size: 0.875em;
+    }
+}

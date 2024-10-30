@@ -1,0 +1,947 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: admin.js
+msgid "Date Range"
+msgstr ""
+
+#: admin.js
+msgid "Time Start"
+msgstr ""
+
+#: admin.js
+msgid "Time End"
+msgstr ""
+
+#: admin.js
+msgid "Sunday"
+msgstr ""
+
+#: admin.js
+msgid "Monday"
+msgstr ""
+
+#: admin.js
+msgid "Tuesday"
+msgstr ""
+
+#: admin.js
+msgid "Wednesday"
+msgstr ""
+
+#: admin.js
+msgid "Thursday"
+msgstr ""
+
+#: admin.js
+msgid "Friday"
+msgstr ""
+
+#: admin.js
+msgid "Saturday"
+msgstr ""
+
+#: admin.js
+msgid "Week Days"
+msgstr ""
+
+#: admin.js
+msgid "From"
+msgstr ""
+
+#: admin.js
+msgid "To "
+msgstr ""
+
+#: admin.js
+msgid "UnPaid"
+msgstr ""
+
+#: admin.js
+msgid "Pending Confirmation"
+msgstr ""
+
+#: admin.js
+msgid "Confirmed"
+msgstr ""
+
+#: admin.js
+msgid "Paid"
+msgstr ""
+
+#: admin.js
+msgid "Complete"
+msgstr ""
+
+#: admin.js
+msgid "Cancelled"
+msgstr ""
+
+#: admin.js
+msgid "Persons"
+msgstr ""
+
+#: admin.js
+msgid "Adults"
+msgstr ""
+
+#: admin.js
+msgid "Children"
+msgstr ""
+
+#: admin.js
+msgid "Order"
+msgstr ""
+
+#: admin.js
+msgid "Status"
+msgstr ""
+
+#: admin.js
+msgid "Bookings List"
+msgstr ""
+
+#: admin.js
+msgid "Item"
+msgstr ""
+
+#: admin.js
+msgid "Product"
+msgstr ""
+
+#: admin.js
+msgid "Customer"
+msgstr ""
+
+#: admin.js
+msgid "Booked On"
+msgstr ""
+
+#: admin.js
+msgid "# Of Persons"
+msgstr ""
+
+#: admin.js
+msgid "Start/End Date"
+msgstr ""
+
+#: admin.js
+msgid "Start Time"
+msgstr ""
+
+#: admin.js
+msgid "Duration"
+msgstr ""
+
+#: admin.js
+msgid "Showing #%d"
+msgstr ""
+
+#: admin.js
+msgid "Bookings"
+msgstr ""
+
+#: admin.js
+msgid "General Details"
+msgstr ""
+
+#: admin.js
+msgid "Edit"
+msgstr ""
+
+#: admin.js
+msgid "Booking"
+msgstr ""
+
+#: admin.js
+msgid "Start Date:"
+msgstr ""
+
+#: admin.js
+msgid "End Date:"
+msgstr ""
+
+#: admin.js
+msgid "Duration:"
+msgstr ""
+
+#: admin.js
+msgid "Persons: "
+msgstr ""
+
+#: admin.js
+msgid "Adult:"
+msgstr ""
+
+#: admin.js
+msgid "Quantity:"
+msgstr ""
+
+#: admin.js
+msgid "Guest"
+msgstr ""
+
+#: admin.js
+msgid "Resources"
+msgstr ""
+
+#: admin.js
+msgid "Price Details"
+msgstr ""
+
+#: admin.js
+msgid "Update Status"
+msgstr ""
+
+#: admin.js
+msgid "Booking Status"
+msgstr ""
+
+#: admin.js
+msgid "Delete Item"
+msgstr ""
+
+#: admin.js
+msgid "Are you sure to delete this Item?"
+msgstr ""
+
+#: admin.js
+msgid "Deleting..."
+msgstr ""
+
+#: admin.js
+msgid "Some thing went wrong, May be the product  wont be existing!"
+msgstr ""
+
+#: admin.js
+msgid "Edit Bookings"
+msgstr ""
+
+#: admin.js
+msgid "Unpaid"
+msgstr ""
+
+#: admin.js
+msgid "Today"
+msgstr ""
+
+#: admin.js
+msgid "Month"
+msgstr ""
+
+#: admin.js
+msgid "Week"
+msgstr ""
+
+#: admin.js
+msgid "Day"
+msgstr ""
+
+#: admin.js
+msgid "List"
+msgstr ""
+
+#: admin.js
+msgid "View"
+msgstr ""
+
+#: admin.js
+msgid "Persons:"
+msgstr ""
+
+#: productMeta.js
+#: admin.js
+msgid "Manage Cost"
+msgstr ""
+
+#: productMeta.js
+msgid "Price Per Unit"
+msgstr ""
+
+#: productMeta.js
+msgid "Fixed Extra Cost"
+msgstr ""
+
+#: productMeta.js
+msgid "Fixed Extra Cost Cost Per Person"
+msgstr ""
+
+#: productMeta.js
+msgid "Extra Cost Per %s"
+msgstr ""
+
+#: admin.js
+msgid "Booking Item"
+msgstr ""
+
+#: admin.js
+msgid "Items"
+msgstr ""
+
+#: admin.js
+msgid "Save"
+msgstr ""
+
+#: admin.js
+msgid "Title"
+msgstr ""
+
+#: admin.js
+msgid "Provide a tile"
+msgstr ""
+
+#: admin.js
+msgid "Block Duration "
+msgstr ""
+
+#: admin.js
+msgid "Days"
+msgstr ""
+
+#: admin.js
+msgid "Hours"
+msgstr ""
+
+#: admin.js
+msgid "Minutes"
+msgstr ""
+
+#: admin.js
+msgid "Enable Multiple selection"
+msgstr ""
+
+#: admin.js
+msgid "Customers will be able to select multiple blocks/slots"
+msgstr ""
+
+#: admin.js
+msgid "Check if this need to enable multi selection"
+msgstr ""
+
+#: admin.js
+msgid "Max Booking Per Slot"
+msgstr ""
+
+#: admin.js
+msgid "How many booking can have per slot"
+msgstr ""
+
+#: admin.js
+msgid "Min Bookable duration"
+msgstr ""
+
+#: admin.js
+msgid "Minimum required booking duration"
+msgstr ""
+
+#: admin.js
+msgid "Max Bookable"
+msgstr ""
+
+#: admin.js
+msgid "Maximum allowed selection "
+msgstr ""
+
+#: admin.js
+msgid "All Day Booking?"
+msgstr ""
+
+#: admin.js
+msgid ""
+"If the check in date is today and check out is tomorrow, it will be counted "
+"as  1 day.If you want to consider checking and leaving date as same day, "
+"please check this all day booking option"
+msgstr ""
+
+#: admin.js
+msgid "Check this to enable All Day Booking"
+msgstr ""
+
+#: admin.js
+msgid "Required Confirmation?"
+msgstr ""
+
+#: admin.js
+msgid "Check this if it need admin approval"
+msgstr ""
+
+#: admin.js
+msgid "Can be cancelled?"
+msgstr ""
+
+#: admin.js
+msgid "Booking can be cancelled until"
+msgstr ""
+
+#: admin.js
+msgid "Buffer period between two bookings, "
+msgstr ""
+
+#: admin.js
+msgid "Configurations"
+msgstr ""
+
+#: admin.js
+msgid "Enable Persons Option"
+msgstr ""
+
+#: admin.js
+msgid "Check for Enabling Persons Option"
+msgstr ""
+
+#: admin.js
+msgid "Enable Persons Type"
+msgstr ""
+
+#: admin.js
+msgid "Check for Enabling Adult and Children Option"
+msgstr ""
+
+#: admin.js
+msgid "Each Person as Different Booking"
+msgstr ""
+
+#: admin.js
+msgid ""
+"Consider each persons as separate Booking,Persons count will count towards "
+"total booking per slot and also price will be calculating accordingly "
+msgstr ""
+
+#: admin.js
+msgid "Consider Persons Count as Separate Booking"
+msgstr ""
+
+#: admin.js
+msgid "Show Date Range Picker"
+msgstr ""
+
+#: admin.js
+msgid "Check for Enabling Date Range Picker"
+msgstr ""
+
+#: admin.js
+msgid "Show calendar instead of datepicker."
+msgstr ""
+
+#: admin.js
+msgid "Show Inline Calendar"
+msgstr ""
+
+#: admin.js
+msgid "Enable Quantity Field"
+msgstr ""
+
+#: admin.js
+msgid "Check for Enabling Quantity Field"
+msgstr ""
+
+#: admin.js
+msgid "Base Price For %s"
+msgstr ""
+
+#: admin.js
+msgid "Multiply by Persons Count"
+msgstr ""
+
+#: admin.js
+msgid "Free persons Count"
+msgstr ""
+
+#: admin.js
+msgid "Default included persons count"
+msgstr ""
+
+#: admin.js
+msgid "Extra Cost Per Person"
+msgstr ""
+
+#: admin.js
+msgid "Extra Cost Per Adult"
+msgstr ""
+
+#: admin.js
+msgid "Extra Cost Per Child"
+msgstr ""
+
+#: admin.js
+msgid "Extra Costs"
+msgstr ""
+
+#: admin.js
+msgid "Fixed Base Price"
+msgstr ""
+
+#: admin.js
+msgid "Leave Blank if not using"
+msgstr ""
+
+#: admin.js
+msgid "Availability Rules"
+msgstr ""
+
+#: admin.js
+msgid "Add New Rule"
+msgstr ""
+
+#: admin.js
+msgid "Minimum Advance Booking"
+msgstr ""
+
+#: admin.js
+msgid "Maximum Advance Booking"
+msgstr ""
+
+#: admin.js
+msgid "Booking Start Time"
+msgstr ""
+
+#: admin.js
+msgid "Booking End Time"
+msgstr ""
+
+#: admin.js
+msgid "Slot Increment for time selector dropdown"
+msgstr ""
+
+#: admin.js
+msgid "Set time required between selection"
+msgstr ""
+
+#: admin.js
+msgid "Buffer Period"
+msgstr ""
+
+#: admin.js
+msgid "Time increment including buffer"
+msgstr ""
+
+#: admin.js
+msgid ""
+"If you want to add buffer duration between each slots in time selector By "
+"default buffer duration will be calculated only when you have booking for "
+"slots."
+msgstr ""
+
+#: admin.js
+msgid "Delete"
+msgstr ""
+
+#: admin.js
+msgid "Range Type"
+msgstr ""
+
+#: admin.js
+msgid "Date range"
+msgstr ""
+
+#: admin.js
+msgid "Time Range"
+msgstr ""
+
+#: admin.js
+msgid "Date Time Range"
+msgstr ""
+
+#: admin.js
+msgid "WeekDays & Time Range"
+msgstr ""
+
+#: admin.js
+msgid "Bookable"
+msgstr ""
+
+#: admin.js
+msgid "Not Bookable"
+msgstr ""
+
+#: admin.js
+msgid "Holiday (Bookable)"
+msgstr ""
+
+#: admin.js
+msgid "Priority"
+msgstr ""
+
+#: admin.js
+msgid "Booking window preview"
+msgstr ""
+
+#: admin.js
+msgid "Are you sure to delete this Item - %s"
+msgstr ""
+
+#: admin.js
+msgid "Select Additional Resources"
+msgstr ""
+
+#: admin.js
+msgid "Items List"
+msgstr ""
+
+#: admin.js
+msgid "Add New Item"
+msgstr ""
+
+#: admin.js
+msgid "Item Title"
+msgstr ""
+
+#: admin.js
+msgid "Block Duration"
+msgstr ""
+
+#: admin.js
+msgid "Type"
+msgstr ""
+
+#: admin.js
+msgid "Unit Price"
+msgstr ""
+
+#: admin.js
+msgid "Fixed Charge"
+msgstr ""
+
+#: admin.js
+msgid "Products Assigned"
+msgstr ""
+
+#: admin.js
+msgid "No Products Assigned"
+msgstr ""
+
+#: admin.js
+msgid "Description"
+msgstr ""
+
+#: admin.js
+msgid "Price"
+msgstr ""
+
+#: admin.js
+msgid "Leave Blank or Zero for Free"
+msgstr ""
+
+#: admin.js
+msgid "Is Optional?"
+msgstr ""
+
+#: admin.js
+msgid "let customers choose to add it or not"
+msgstr ""
+
+#: admin.js
+msgid "Select if this service is optional "
+msgstr ""
+
+#: admin.js
+msgid "Hide from Customer"
+msgstr ""
+
+#: admin.js
+msgid ""
+"It will be hidden from resource list in frontend, The cost will be show in "
+"summary"
+msgstr ""
+
+#: admin.js
+msgid "Select if this service is hidden "
+msgstr ""
+
+#: admin.js
+msgid "Multiply cost by units selected"
+msgstr ""
+
+#: admin.js
+msgid ""
+"Select if you want to multiply the cost of this service by the number of "
+"units selected. "
+msgstr ""
+
+#: admin.js
+msgid "Multiply cost by people"
+msgstr ""
+
+#: admin.js
+msgid "cost of this service by the number"
+msgstr ""
+
+#: admin.js
+msgid "Price For Adult"
+msgstr ""
+
+#: admin.js
+msgid " Select this resource price for Adult. Leave empty to use default price"
+msgstr ""
+
+#: admin.js
+msgid "Price For Child"
+msgstr ""
+
+#: admin.js
+msgid "Select this resource price for Adult. Leave empty to"
+msgstr ""
+
+#: admin.js
+msgid "Has Quantity?"
+msgstr ""
+
+#: admin.js
+msgid "Select if you want to allow a quantity selection for this service."
+msgstr ""
+
+#: admin.js
+msgid "Min Quantity"
+msgstr ""
+
+#: admin.js
+msgid "Max Quantity"
+msgstr ""
+
+#: admin.js
+msgid "Choose the maximum quantity for this service. Leave empty for unlimited"
+msgstr ""
+
+#: admin.js
+msgid "Resource Availability "
+msgstr ""
+
+#: admin.js
+msgid "Is it Limited Resource "
+msgstr ""
+
+#: admin.js
+msgid "Select if this resource is limited in numbers "
+msgstr ""
+
+#: admin.js
+msgid "Available Quantity"
+msgstr ""
+
+#: admin.js
+msgid "Maximum Capacity"
+msgstr ""
+
+#: admin.js
+msgid "How many booking allowed per resouce"
+msgstr ""
+
+#: admin.js
+msgid "Sharable Across Diffrent Items?"
+msgstr ""
+
+#: admin.js
+msgid ""
+"By default if a resouces is reserved for an item, it will not allow to book "
+"for other items at the same time. But can book for the same item till the "
+"max capacity reaches. Basically it prevents using person from diffrent "
+"item/product the same resouces at same time "
+msgstr ""
+
+#: admin.js
+msgid "Select if this resouces is sharable "
+msgstr ""
+
+#: admin.js
+msgid "Booking slots will show un-available if this item is not available"
+msgstr ""
+
+#: admin.js
+msgid "Yes"
+msgstr ""
+
+#: admin.js
+msgid "No"
+msgstr ""
+
+#: admin.js
+msgid "Yes (%d)"
+msgstr ""
+
+#: admin.js
+msgid "Resource Title"
+msgstr ""
+
+#: admin.js
+msgid "Is Limited?"
+msgstr ""
+
+#: admin.js
+msgid "Hidden"
+msgstr ""
+
+#: admin.js
+msgid "Quantity?"
+msgstr ""
+
+#: admin.js
+msgid "Start Date"
+msgstr ""
+
+#: admin.js
+msgid "End Date"
+msgstr ""
+
+#: admin.js
+msgid "Quantity"
+msgstr ""
+
+#: admin.js
+msgid "Total"
+msgstr ""
+
+#: admin.js
+msgid "Selected Date"
+msgstr ""
+
+#: admin.js
+msgid "Booking Price"
+msgstr ""
+
+#: admin.js
+msgid "Booking Price Persons"
+msgstr ""
+
+#: admin.js
+msgid "Booking Price Adult"
+msgstr ""
+
+#: admin.js
+msgid "Booking Price Children"
+msgstr ""
+
+#: admin.js
+msgid "Selected date range is not available"
+msgstr ""
+
+#: admin.js
+msgid "Invalid Selection"
+msgstr ""
+
+#: admin.js
+msgid "Book Now"
+msgstr ""
+
+#: admin.js
+msgid "Check Availability"
+msgstr ""
+
+#: admin.js
+msgid "Confirmation Required"
+msgstr ""
+
+#: admin.js
+msgid "Resources Title"
+msgstr ""
+
+#: admin.js
+msgid "Per Unit"
+msgstr ""
+
+#: admin.js
+msgid "Per Person"
+msgstr ""
+
+#: admin.js
+msgid "Per unit Per Person"
+msgstr ""
+
+#: admin.js
+msgid "One Time"
+msgstr ""
+
+#: admin.js
+msgid "Only %d quantity is available (Singular)"
+msgstr ""
+
+#: admin.js
+msgid "Only %d Quantities are available (Plural)"
+msgstr ""
+
+#: admin.js
+msgid "Resource %s Not Available"
+msgstr ""
+
+#: admin.js
+msgid "Settings"
+msgstr ""
+
+#: admin.js
+msgid "Update Plugin Configurations"
+msgstr ""
+
+#: admin.js
+msgid "Time Picker "
+msgstr ""
+
+#: admin.js
+msgid "Time Picker Time Format "
+msgstr ""
+
+#: admin.js
+msgid "12 Hrs"
+msgstr ""
+
+#: admin.js
+msgid "24 Hrs"
+msgstr ""
+
+#: admin.js
+msgid "Update Booking Form Labels"
+msgstr ""
+
+#: admin.js
+msgid "Various Strings and Labels"
+msgstr ""
+
+#: admin.js
+msgid "Booking Button Texts"
+msgstr ""
+
+#: admin.js
+msgid "Form Labels"
+msgstr ""
+
+#: admin.js
+msgid "Price Summary"
+msgstr ""
+
+#: admin.js
+msgid "Resources Labels"
+msgstr ""
+
+#: admin.js
+msgid "Messages and Warnings"
+msgstr ""
+
+#: admin.js
+msgid "%d Day"
+msgid_plural "%d Days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin.js
+msgid "%d Hour"
+msgid_plural "%d Hours"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin.js
+msgid "%d Minute"
+msgid_plural "%d Minutes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: productMeta.js
+msgid "Select an Item"
+msgstr ""
+
+#: productMeta.js
+msgid "Set custom price for this item"
+msgstr ""
+
+#: productMeta.js
+msgid "By default it will be using the price set for the item in item editor"
+msgstr ""

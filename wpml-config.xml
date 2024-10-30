@@ -1,0 +1,51 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="copy">_mvvwb_product_meta</custom-field>
+        <custom-field action="copy">_mvvwb_bookable</custom-field>
+        <custom-field action="copy">_mvvwb_is_custom_price</custom-field>
+        <custom-field action="copy">_mvvwb_custom_price</custom-field>
+    </custom-fields>
+
+    <admin-texts>
+        <key name="mvvwb_config">
+            <key name="labels">
+                <key name="dateStart"/>
+                <key name="dateEnd"/>
+                <key name="dateRange"/>
+                <key name="timeStart"/>
+                <key name="duration"/>
+                <key name="persons"/>
+                <key name="quantity"/>
+                <key name="adult"/>
+                <key name="children"/>
+                <key name="total"/>
+                <key name="fixedCharge"/>
+                <key name="bookingPrice"/>
+                <key name="bookingPricePersons"/>
+                <key name="bookingPriceAdult"/>
+                <key name="bookingPriceChildren"/>
+                <key name="selectedRange"/>
+            </key>
+            <key name="resource">
+                <key name="resourcesTitle"/>
+                <key name="resPriPerU"/>
+                <key name="resPriPerP"/>
+                <key name="resPriPerPpU"/>
+                <key name="resPriOnce"/>
+            </key>
+            <key name="button">
+                <key name="bookNow"/>
+                <key name="checkAvail"/>
+            </key>
+            <key name="messages">
+                <key name="notAvailable"/>
+                <key name="invalidSelection"/>
+                <key name="availQuantityS"/>
+                <key name="availQuantityP"/>
+
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>
+
+
